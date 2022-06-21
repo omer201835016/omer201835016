@@ -1,0 +1,13 @@
+C:\Users\monster\source\repos\VP201835016\VP201835016\bin\Debug\VP201835016.exe.config
+C:\Users\monster\source\repos\VP201835016\VP201835016\bin\Debug\VP201835016.exe
+C:\Users\monster\source\repos\VP201835016\VP201835016\bin\Debug\VP201835016.pdb
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.csproj.SuggestedBindingRedirects.cache
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.Form1.resources
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.Form2.resources
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.Properties.Resources.resources
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.exe
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.pdb
+C:\Users\monster\source\repos\VP201835016\VP201835016\obj\Debug\VP201835016.Form3.resources
